@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-###connect with me:
-###Email:mjsong0524@gmail.com
+### connect with me:
+### Email:mjsong0524@gmail.com
 
 
 <!--
