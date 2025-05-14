@@ -1,4 +1,7 @@
 ## Hi there 👋
+###connect with me:
+###Email:mjsong0524@gmail.com
+
 
 <!--
 **songkey06/songkey06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,15 +20,13 @@
 #### ☁️ Infra & DevOps
 
 ### 📊 GitHub Stats
+[![songkey06's GitHub stats](https://github-readme-stats.vercel.app/api?username=songkey06&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songkey06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=songkey06&theme=tokyonight&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 1.GIt and GItHub
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
