@@ -26,14 +26,14 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=songkey06&theme=tokyonight&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=songkey06&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/songkey06"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=songkey06&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/songkey06"
+  width="600"
+  height="300"
+/>
 </a>
-  
+
 - 🌱 I’m currently learning ...
 - 1.GIt and GItHub
 - 🤔 I’m looking for help with ...
