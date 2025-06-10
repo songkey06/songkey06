@@ -17,7 +17,7 @@
 #### 💾 Database
 
 #### 🖥️ Front-End
-
+HTML, CSS
 #### ☁️ Infra & DevOps
 
 ### 📊 GitHub Stats
